@@ -4,9 +4,9 @@ First Introduce My name Is Meyshuu/Misuu Whatever You Callme
 #000000
 # On The First App Is On Android 
 ### 1. Genta
-> This Exploit Its Most Used In Android Since Powerkuy Never Updated Yet
+#000000 > This Exploit Its Most Used In Android Since Powerkuy Never Updated Yet
 ### 2. Powerkuy
-> This Exploit Was very powerful in its time, But Its Kinda Delayed Update So we Only Can Just Wait 
+#000000 > This Exploit Was very powerful in its time, But Its Kinda Delayed Update So we Only Can Just Wait 
 ### 3. Bothax
 > I Dont Get Information About This Exploit
 
