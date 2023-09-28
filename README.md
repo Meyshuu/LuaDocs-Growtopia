@@ -32,3 +32,6 @@ Check The Olympus Price & Information : [Olympus](https://github.com/Meyshuu/Lua
 ### 2. Lucifer/Neuron
 > This Is Exploits Was Most Used By RDP People They Use This For Auto Farming (Rotation, PNB, And Some Auto Farm)
 Check The Lucifer Price & Information : [Lucifer](https://github.com/Meyshuu/LuaDocs-Growtopia/tree/Lucifer)
+
+> [!pop]
+> HOT POS
