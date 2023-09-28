@@ -22,7 +22,7 @@ Check The Growpai Price & Information : [Growpai](https://github.com/Meyshuu/Lua
 Check The Real Goblon Price & Information : [Real Goblin](https://github.com/Meyshuu/LuaDocs-Growtopia/blob/main/RealGoblin/Information)
 
 ## The Third Apps Is On RDP (you can use this on pc But You Need A Good Connection If You Want Get Smooth Progress)
-###1. Olympus
+### 1. Olympus
 > I Only Know Most People Use This For Farming Like (Rotation, PNB, And Some Auto Farm)
 Check The Olympus Price & Information : [Olympus](https://github.com/Meyshuu/LuaDocs-Growtopia/blob/main/Olympus/Information)
 ### 2. Lucifer/Neuron
