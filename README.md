@@ -22,7 +22,7 @@ Check The Bothax Price & Information : [Bothax](https://github.com/Meyshuu/LuaDo
 Check The Growpai Price & Information : [Growpai](https://github.com/Meyshuu/LuaDocs-Growtopia/tree/Growpai)
 ### 2. Real Goblin
 > I Dont Get Information About This Exploit
-Check The Real Goblon Price & Information : [Real Goblin](https://github.com/Meyshuu/LuaDocs-Growtopia/tree/RealGoblin)
+Check The Real Goblon Price & Information : [Real Goblin](https://github.com/Meyshuu/LuaDocs-Growtopia/tree/Real-Goblins)
 
   
 ## The Third Apps Is On RDP (you can use this on pc But You Need A Good Connection If You Want Get Smooth Progress)
