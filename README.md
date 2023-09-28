@@ -1,7 +1,7 @@
 # This Is Are Repositories For Lua Docs And Example For Script Each Exploit
 
 First Introduce My name Is Meyshuu/Misuu Whatever You Callme
-
+#000000
 # On The First App Is On Android 
 ### 1. Genta
 > This Exploit Its Most Used In Android Since Powerkuy Never Updated Yet
