@@ -2,6 +2,8 @@
 
 First Introduce My name Is Meyshuu/Misuu Whatever You Callme
 
+If You Want Support Me : [SUPPORT](https://saweria.co/Misuuu) ~ Thanks
+    
 ## On The First App Is On Android 
 ### 1. Genta
 > This Exploit Its Most Used In Android Since Powerkuy Never Updated Yet
@@ -13,6 +15,7 @@ Check Powerkuy Price & Information : [Powerkuy](https://github.com/Meyshuu/LuaDo
 > I Dont Get Information About This Exploit
 Check The Bothax Price & Information : [Bothax](https://github.com/Meyshuu/LuaDocs-Growtopia/blob/main/Bothax)
 
+  
 ## The Second Apps Is On PC/Laptop
 ### 1. Growpai
 > This Exploit Its My Favourite Exploit In PC
@@ -21,6 +24,7 @@ Check The Growpai Price & Information : [Growpai](https://github.com/Meyshuu/Lua
 > I Dont Get Information About This Exploit
 Check The Real Goblon Price & Information : [Real Goblin](https://github.com/Meyshuu/LuaDocs-Growtopia/blob/main/RealGoblin)
 
+  
 ## The Third Apps Is On RDP (you can use this on pc But You Need A Good Connection If You Want Get Smooth Progress)
 ### 1. Olympus
 > I Only Know Most People Use This For Farming Like (Rotation, PNB, And Some Auto Farm)
