@@ -8,10 +8,10 @@ First Introduce My name Is Meyshuu/Misuu Whatever You Callme
 Check Genta Price & Information : [Genta](https://github.com/Meyshuu/LuaDocs-Growtopia/blob/main/Genta/Information)
 ### 2. Powerkuy
 > This Exploit Was very powerful in its time, But Its Kinda Delayed Update So we Only Can Just Wait
-Check Powerkuy Price & Information : [Powerkuy](https)
+Check Powerkuy Price & Information : [Powerkuy](https://github.com/Meyshuu/LuaDocs-Growtopia/blob/main/PowerKuy/Information)
 ### 3. Bothax
 > I Dont Get Information About This Exploit
-Check The Bothax Price & Information : [Bothax](https)
+Check The Bothax Price & Information : [Bothax](https://github.com/Meyshuu/LuaDocs-Growtopia/blob/main/Bothax/Information)
 
 ## The Second Apps Is On PC/Laptop
 ### 1. Growpai
