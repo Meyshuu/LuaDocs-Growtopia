@@ -5,7 +5,7 @@ First Introduce My name Is Meyshuu/Misuu Whatever You Callme
 ## On The First App Is On Android 
 ### 1. Genta
 > This Exploit Its Most Used In Android Since Powerkuy Never Updated Yet
-Check Genta Price & Information : [Genta]([https](https://github.com/Meyshuu/LuaDocs-Growtopia/blob/main/Genta/Information))
+Check Genta Price & Information : [Genta](https://github.com/Meyshuu/LuaDocs-Growtopia/blob/main/Genta/Information)
 ### 2. Powerkuy
 > This Exploit Was very powerful in its time, But Its Kinda Delayed Update So we Only Can Just Wait
 Check Powerkuy Price & Information : [Powerkuy](https)
