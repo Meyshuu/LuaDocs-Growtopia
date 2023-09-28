@@ -3,7 +3,13 @@
 First Introduce My name Is `Meyshuu/Misuu` Whatever You Callme
 
 If You Want Support Me : [SUPPORT](https://saweria.co/Misuuu) ~ Thanks
-    
+
+> [!NOTE]
+> These All The Exploits Are Illegal So Use At Your Risk
+
+> [!WARNING]
+> You Can Get Banned So Use Carefully
+
 ## On The First App Is On Android 
 ### 1. Genta
 > This Exploit Its Most Used In Android Since Powerkuy Never Updated Yet
@@ -32,6 +38,3 @@ Check The Olympus Price & Information : [Olympus](https://github.com/Meyshuu/Lua
 ### 2. Lucifer/Neuron
 > This Is Exploits Was Most Used By RDP People They Use This For Auto Farming (Rotation, PNB, And Some Auto Farm)
 Check The Lucifer Price & Information : [Lucifer](https://github.com/Meyshuu/LuaDocs-Growtopia/tree/Lucifer)
-
-> [!pop]
-> HOT POS
